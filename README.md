@@ -11,7 +11,7 @@ Body Mass Index calculator app. Based on the user’s weight and height it will 
 
 ## Screenshot
 
-<img src= Documentation/ScreenShot1.png  height="375" width="175">   <img src= Documentation/ScreenShot2.png height="375" width="175">
+<img src= Documentation/Screenshot1.png  height="375" width="175">   <img src= Documentation/Screenshot2.png height="375" width="175">
 
 
 
