@@ -15,7 +15,7 @@ Body Mass Index calculator app. Based on the user’s weight and height it will 
 
 
 
-## What you I learned with this app
+## What I learned with this app
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
